@@ -1,0 +1,19 @@
+{
+  "name": "projetooitentistas",
+  "version": "1.0.0",
+  "description": "Projeto 01 - Realizado em Curso de FullStack ministrado pela Blue EdTech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamsilva1981/ProjetoOitentistas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamsilva1981/ProjetoOitentistas/issues"
+  },
+  "homepage": "https://github.com/anamsilva1981/ProjetoOitentistas#readme"
+}
